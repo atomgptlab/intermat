@@ -780,7 +780,7 @@ Please report bugs as Github issues (https://github.com/usnistgov/alignn/issues)
 
 [NIST-MGI](https://www.nist.gov/mgi) and [NIST-CHIPS](https://www.nist.gov/chips).
 
-Note: This project was originally developed under the github.com/usnistgov organization and is now maintained here by the lead developer.
+Note: This project was originally developed under the github.com/usnistgov organization. New updates and developments will be carried out here.
 
 ## Code of conduct
 
